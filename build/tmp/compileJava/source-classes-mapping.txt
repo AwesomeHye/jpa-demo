@@ -1,0 +1,6 @@
+jpademo/JpaDemoApplication.java
+ jpademo.JpaDemoApplication
+jpademo/dto/Member.java
+ jpademo.dto.Member
+jpademo/service/LogicService.java
+ jpademo.service.LogicService
